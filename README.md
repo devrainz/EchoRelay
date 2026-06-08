@@ -1,6 +1,7 @@
 # EchoRelay
 
-Push-to-talk voice relay for Windows and Linux. Speak into your mic, get clean synthesized audio back through a virtual microphone — in real time.
+A Push-to-talk voice relay tool for Windows and Linux. Speak into your mic, get clean synthesized audio back through a virtual microphone — in real time.
+Currently in very early state of in WIP.
 
 EchoRelay transcribes what you say, fixes the grammar, runs it through a TTS engine, and routes the result to a virtual mic so other apps pick it up as if it were you talking normally without actually exposing your real voice.
 
